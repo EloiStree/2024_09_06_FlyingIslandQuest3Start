@@ -1,25 +1,53 @@
 {
   "dependencies": {
+    "be.elab.bedroomfromsketchfab": {
+      "version": "https://github.com/EloiStree/2024_08_16_BedroomFromSketchab.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "dd1767222f422d55ba9ba1485faad7dd6f80981f"
+    },
+    "be.elab.besttiming": {
+      "version": "https://github.com/EloiStree/2024_09_06_BestTimingScore.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4480cdf40f1632b78773192a333f2bd30c34afb2"
+    },
+    "be.elab.developernote": {
+      "version": "https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0952952a1f64bb6e27c257b8ffe842464d021233"
+    },
+    "be.elab.flyingisland": {
+      "version": "https://github.com/EloiStree/2024_09_10_FlyingIsland.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4fdea6c0c79179f3e96c1b6195f22663c4ce235b"
+    },
+    "be.elab.hellocopter": {
+      "version": "https://github.com/EloiStree/2024_09_10_HelicopterMove.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3f95c398eb3d730d499c936940c588f6905576ca"
+    },
     "be.elab.skyriding": {
       "version": "https://github.com/EloiStree/2024_09_03_SkyRidingPath.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "708fb2d7dc6b5f460b4569bad6991284625e4409"
+      "hash": "4ba552971c957abd8a052f262fa0df2a18419fd8"
     },
-    "be.eloi.bedroomfromsketchfab": {
-      "version": "https://github.com/EloiStree/2024_08_16_BedroomFromSketchab.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "14503acba83062f14006a0aa9acbc5e150003ce0"
-    },
-    "be.eloistree.rootsofknowledgedronecar": {
+    "be.elab.tellotoy": {
       "version": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "87507a87af2970a04f0d1ddc2a0161c312b8ce87"
+      "hash": "ed2cc8da4e55f55647329c441e77240a8b31a673"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "68.0.1",
@@ -197,6 +225,17 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.probuilder": {
+      "version": "5.2.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.settings-manager": "1.0.3"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.render-pipelines.core": {
       "version": "14.0.11",
       "depth": 1,
@@ -231,6 +270,13 @@
     "com.unity.searcher": {
       "version": "4.9.2",
       "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.settings-manager": {
+      "version": "2.0.1",
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
